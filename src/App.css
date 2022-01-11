@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+
+.site-page-header {
+  border: 1px solid rgb(235, 237, 240);
+}
+
+.main {
+  margin: 20px;
+}
+
+.ant-input {
+  margin-top: 10px !important;
+  margin-bottom: 10px !important;
+  /* height: 50px !important; */
+}
+
+.ant-input-password {
+  margin-top: 10px !important;
+  margin-bottom: 10px !important;
+  /* height: 50px !important; */
+}
+
+.ant-btn {
+  margin: 10px !important;
+}
+
+.ant-card {
+  margin: 10px !important;
+  border-color: #48494d !important;
+  width: 300px;
+}
+
+.select-after {
+  width: 200px;
+}
